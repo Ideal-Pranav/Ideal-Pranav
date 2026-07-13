@@ -1,21 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently working on AI & ML full stack projects inlcuding python for backend , react and next for frontend and also sqlite for database helping faster integration and better efficiency<br>👯 I’m Fourth Year BTECH Student of Computer Engineering at SPPU,Pune  <br>🤝 I’m looking for help with deployment and management kinda stuff<br>🌱 I’m currently learning skills based on further ongoing trends in the modern market requirements<br>⚡ Fun fact , I'm kinda explored more of vibe coding stuff and enhanced by prompting skills 
+<h1 align="center">Hi there, I'm Pranav! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+<p align="center">
+  <!-- Animated Typing Text reflecting your background -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Full-Stack+Engineer;Prompt+Engineer;Vibe+Coder" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-pagare-659594336/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavnpagare@gmail.com) 
+<p align="center">
+  <!-- Elevated Badges for Socials -->
+  <a href="https://linkedin.com/in/pranav-pagare-659594336/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:pranavnpagare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ideal-Pranav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ideal-Pranav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ideal-Pranav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Animated Coding GIF on the right to make the profile pop -->
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💫 About Me
+- 🔭 I’m currently working on **AI & ML full-stack projects**, utilizing **Python** for the backend, **React & Next.js** for the frontend, and **SQLite** to help with faster integration and better efficiency.
+- 🎓 I’m a Fourth Year **B.Tech Student of Computer Engineering** at SPPU, Pune.
+- 🤝 I’m looking for help with **deployment and management**.
+- 🌱 I’m currently learning skills based on the **ongoing trends in modern market requirements**.
+- ⚡ **Fun fact**: I've explored a lot of **vibe coding** and heavily enhanced my **prompting skills**!
+
+<br/>
+
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <!-- Animated and Unified Icons from Skillicons (Matches dark themes perfectly) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nextjs,tailwind,nodejs,flask,fastapi,mysql,sqlite,pytorch,tensorflow,docker,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Kept your Data Science badges for tools not fully covered by skillicons -->
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Stats upgraded to the sleek 'tokyonight' theme with no borders -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ideal-Pranav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ideal-Pranav&theme=tokyonight&hide_border=true&background=0D1117" alt="Pranav's Streak" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Alignment of Languages and Dev Quote to match sizes side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ideal-Pranav&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true" alt="Random Dev Quote" width="48%" />
+</p>
+
+## 🐍 Contribution Graph (Animated Snake)
+
+<p align="center">
+  <!-- NOTE: To make the snake work, you will need to set up a GitHub Action workflow in your repository -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ideal-Pranav&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ideal-Pranav&icon=0&color=0" alt="Profile Views" />
+</p>
