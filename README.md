@@ -47,15 +47,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats upgraded to the sleek 'tokyonight' theme with no borders -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ideal-Pranav&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Pranav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ideal-Pranav&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="Pranav's Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ideal-Pranav&theme=tokyonight" alt="Pranav's Profile Summary" width="97%" />
 </p>
 
 <p align="center">
-  <!-- Alignment of Languages and Dev Quote to match sizes side-by-side -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ideal-Pranav&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Top Languages" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;hide_border=true" alt="Random Dev Quote" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ideal-Pranav&theme=tokyonight" alt="Repos Per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ideal-Pranav&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ideal-Pranav&theme=tokyonight" alt="Stats" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ideal-Pranav&theme=tokyonight&hide_border=true" alt="Pranav's Streak" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="48%" />
 </p>
 
 ## 🐍 Contribution Graph (Animated Snake)
@@ -63,16 +66,20 @@
 <p align="center">
   <!-- NOTE: To make the snake work, you will need to set up a GitHub Action workflow in your repository -->
   <!-- Once the workflow runs successfully, uncomment the picture tag below! -->
-  
+  <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake.svg">
   </picture>
-  
+  -->
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ideal-Pranav&amp;icon=0&amp;color=0" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile+Views&query=value&url=https://api.countapi.xyz/hit/Ideal-Pranav/visits" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Ideal-Pranav?label=Followers&style=social" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Ideal-Pranav?label=Stars&style=social" alt="GitHub Stars" />
 </p>
