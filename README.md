@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & ML full stack projects inlcuding python for backend , react and next for frontend and also sqlite for database helping faster integration and better efficiency<br>👯 I’m Third Year BTECH Student of Computer Engineering at SPPU,Pune  <br>🤝 I’m looking for help with deployment and management kinda stuff<br>🌱 I’m currently learning skills based on further ongoing trends in the modern market requirements<br>⚡ Fun fact , I'm kinda explored more of vibe coding stuff and enhanced by prompting skills 
+🔭 I’m currently working on AI & ML full stack projects inlcuding python for backend , react and next for frontend and also sqlite for database helping faster integration and better efficiency<br>👯 I’m Fourth Year BTECH Student of Computer Engineering at SPPU,Pune  <br>🤝 I’m looking for help with deployment and management kinda stuff<br>🌱 I’m currently learning skills based on further ongoing trends in the modern market requirements<br>⚡ Fun fact , I'm kinda explored more of vibe coding stuff and enhanced by prompting skills 
 
 
 ## 🌐 Socials:
