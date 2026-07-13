@@ -63,13 +63,13 @@
 <p align="center">
   <!-- NOTE: To make the snake work, you will need to set up a GitHub Action workflow in your repository -->
   <!-- Once the workflow runs successfully, uncomment the picture tag below! -->
-  <!--
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ideal-Pranav/Ideal-Pranav/output/github-contribution-grid-snake.svg">
   </picture>
-  -->
+  
 </p>
 
 ---
